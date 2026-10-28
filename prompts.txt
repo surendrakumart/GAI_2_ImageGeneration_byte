@@ -1,0 +1,153 @@
+AVIP 2026 — Task 2: Image Generation with Pretrained Models
+Exact prompt list used for the 30 supplied images.
+Note: prompts are documented from the prompt set prepared for this task; confirm that each was used verbatim when generating its corresponding image.
+
+01. Mountain Sunrise
+Output file: generated_images/01_mountain_sunrise.jpg
+Prompt:
+Generate an ultra-photorealistic landscape photograph of the sun rising behind the Himalayan mountains. Golden sunlight illuminates snow-covered peaks while soft clouds drift through the valleys. Include a pine forest in the foreground, realistic atmospheric perspective, detailed mountain textures, natural colors, and professional landscape photography. Wide-angle composition, 16:9 aspect ratio. No text, logos, or watermarks.
+
+02. Rainy City Street
+Output file: generated_images/02_rainy_city_street.jpg
+Prompt:
+Create a photorealistic photograph of a modern city street at night during heavy rain. Neon shop lights reflect across wet asphalt, pedestrians carry umbrellas, and distant vehicles create subtle light trails. Capture realistic reflections, detailed raindrops, cinematic lighting, natural perspective, and a moody urban atmosphere. Professional street photography, 16:9 composition. No readable text, logos, or watermarks.
+
+03. Peaceful Beach
+Output file: generated_images/03_peaceful_beach.jpg
+Prompt:
+Create a realistic photograph of a peaceful tropical beach during golden hour. Gentle turquoise waves wash onto pale sand, palm trees frame the composition, and distant islands fade into the horizon. Include realistic water reflections, detailed sand textures, soft sunlight, natural colors, and subtle sea mist. Professional travel photography, wide-angle composition. No people, text, or watermarks.
+
+04. Forest Waterfall
+Output file: generated_images/04_forest_waterfall.jpg
+Prompt:
+Generate a highly realistic photograph of a tall waterfall flowing into a clear natural pool surrounded by a dense tropical forest. Sunbeams pass through the canopy, illuminating fine water droplets and moss-covered rocks. Include detailed foliage, realistic water movement, natural shadows, and atmospheric depth. High-quality nature photography with balanced composition. No text, logos, or watermarks.
+
+05. Desert Dunes
+Output file: generated_images/05_desert_dunes.jpg
+Prompt:
+Create a photorealistic landscape of enormous desert sand dunes during sunset. Long shadows emphasize the curves of the dunes, and wind creates delicate patterns across the sand. The distant horizon glows orange and pink beneath a deepening blue sky. Capture realistic sand textures, natural atmospheric gradients, and professional landscape photography. No people, buildings, text, or watermarks.
+
+06. Floating Island
+Output file: generated_images/06_floating_island.jpg
+Prompt:
+Create a breathtaking fantasy environment featuring a massive floating island suspended above a sea of clouds. Waterfalls spill from its edges into the mist below, while ancient trees, tiny waterfalls, and a magnificent castle occupy the island's surface. Golden sunlight streams through distant clouds. Highly detailed fantasy concept art, cinematic scale, atmospheric depth, cohesive lighting, 16:9 composition. No text or watermark.
+
+07. Magical Library
+Output file: generated_images/07_magical_library.jpg
+Prompt:
+Illustrate a magnificent magical library with towering circular bookshelves, floating books, glowing magical particles, spiral staircases, and warm lanterns. A large glass ceiling reveals a star-filled night sky. The architecture should feel physically coherent despite the magical elements. Rich wood textures, intricate details, warm golden lighting, sophisticated fantasy illustration, cinematic composition. No readable text or watermarks.
+
+08. Underwater Kingdom
+Output file: generated_images/08_underwater_kingdom.jpg
+Prompt:
+Create an imaginative underwater fantasy kingdom built from luminous coral, pearlescent towers, and elegant seashell architecture. Schools of colorful fish swim between the structures while sunbeams penetrate the deep blue water. Add floating particles, translucent jellyfish, and realistic underwater light scattering. Detailed environment concept art, beautiful composition, rich but balanced colors. No text or watermark.
+
+09. Bioluminescent Forest
+Output file: generated_images/09_bioluminescent_forest.jpg
+Prompt:
+Generate a fantasy forest at midnight where glowing blue mushrooms, luminous flowers, and bioluminescent vines illuminate a winding path. A gentle mist surrounds ancient trees, while tiny floating lights drift through the air. Use intricate botanical details, believable light interactions, deep shadows, and a mysterious yet peaceful atmosphere. High-quality fantasy concept art, cinematic framing. No text or watermark.
+
+10. City in the Clouds
+Output file: generated_images/10_city_in_the_clouds.jpg
+Prompt:
+Design a spectacular fantasy city built on enormous floating platforms above the clouds. Elegant bridges connect tall towers, airships travel between buildings, and cascading waterfalls disappear into the sky. Morning sunlight creates soft shadows and atmospheric depth. Use intricate architectural details, consistent perspective, realistic materials, and an epic sense of scale. Premium fantasy environment art, 16:9 aspect ratio. No text or watermark.
+
+11. Cozy Anime Bedroom
+Output file: generated_images/11_cozy_anime_bedroom.jpg
+Prompt:
+Illustrate a cozy anime-style bedroom on a rainy evening. A desk sits beside a large window covered with raindrops, with books, a warm desk lamp, indoor plants, and a neatly arranged bed. Soft amber light contrasts with the cool blue outdoors. Use clean linework, expressive environmental details, gentle shading, and a peaceful slice-of-life anime aesthetic. No characters, text, or watermarks.
+
+12. Storybook Village
+Output file: generated_images/12_storybook_village.jpg
+Prompt:
+Create a charming hand-painted storybook illustration of a small countryside village with colorful cottages, winding stone paths, flower gardens, and rolling green hills. A narrow stream passes beneath a little wooden bridge. Use delicate brush textures, soft pastel colors, whimsical architectural details, and warm afternoon lighting. The scene should feel welcoming and suitable for a beautifully illustrated children's storybook. No text or watermark.
+
+13. Botanical Illustration
+Output file: generated_images/13_botanical_illustration.jpg
+Prompt:
+Create a sophisticated botanical illustration featuring a carefully arranged collection of peonies, lilies, lisianthus, carnations, and baby's-breath flowers. Each flower should have clearly distinguishable petals, realistic botanical structures, and delicate stems. Use an elegant cream background, fine ink outlines, subtle watercolor shading, and a balanced editorial layout. No labels, text, borders, or watermarks.
+
+14. Isometric Miniature City
+Output file: generated_images/14_isometric_miniature_city.jpg
+Prompt:
+Generate a detailed isometric miniature city featuring compact houses, tree-lined streets, a small park, a school, a café, and a flowing river crossed by a bridge. Tiny vehicles and pedestrians provide scale. Use consistent isometric perspective, clean geometry, carefully placed objects, soft shadows, and a harmonious color palette. High-quality 3D illustration with a polished miniature-diorama appearance. No text or watermark.
+
+15. Paper-Cut Landscape
+Output file: generated_images/15_paper_cut_landscape.jpg
+Prompt:
+Create a layered paper-cut artwork depicting mountains, pine forests, rolling hills, a river, and a rising sun. Every landscape element should appear cut from colored paper and stacked at different depths, with realistic paper edges and subtle cast shadows. Use a restrained palette of sage green, dusty blue, cream, and warm orange. Clean composition, handcrafted aesthetic. No text or watermark.
+
+16. Futuristic Eco-House
+Output file: generated_images/16_futuristic_eco_house.jpg
+Prompt:
+Design a photorealistic sustainable modern house nestled in a green hillside. Include large glass windows, a planted rooftop, solar panels, natural stone walls, timber details, and an elegant outdoor terrace. The architecture must be structurally plausible, with consistent geometry and realistic materials. Soft morning sunlight, professional architectural photography, landscaped surroundings, 16:9 composition. No text or watermark.
+
+17. Futuristic Public Library
+Output file: generated_images/17_futuristic_library.jpg
+Prompt:
+Visualize a futuristic public library featuring sweeping architectural curves, expansive glass walls, suspended walkways, comfortable reading areas, indoor trees, and carefully organized bookshelves. Natural daylight fills the interior through a dramatic skylight. Emphasize functional circulation, believable structural supports, realistic materials, and sophisticated contemporary architecture. Professional architectural visualization, wide-angle view. No readable text or watermark.
+
+18. Premium Headphones
+Output file: generated_images/18_premium_headphones.jpg
+Prompt:
+Create a premium commercial product photograph of elegant over-ear wireless headphones displayed on a minimalist stone pedestal. Show realistic ear cushions, a carefully constructed headband, subtle metallic accents, and finely textured materials. Use a soft neutral background, controlled studio lighting, accurate proportions, delicate shadows, and refined reflections. Luxury technology advertising aesthetic. No brand logos, text, or watermarks.
+
+19. Smartwatch Concept
+Output file: generated_images/19_smartwatch_concept.jpg
+Prompt:
+Generate a professional product-design render of a modern smartwatch with a slim metallic case, a comfortable dark fabric strap, and a clean abstract display featuring simple geometric shapes. Place it at a three-quarter angle against a soft gray studio background. Emphasize realistic glass reflections, precise edges, detailed materials, and premium studio lighting. The display must contain no words, numbers, or logos. No watermark.
+
+20. Electric Concept Car
+Output file: generated_images/20_electric_concept_car.jpg
+Prompt:
+Design a photorealistic electric concept car with elegant aerodynamic proportions, sculpted body panels, narrow headlights, and sophisticated metallic paint. Place it inside a modern architectural showroom with polished floors and dramatic indirect lighting. Maintain consistent wheel geometry, realistic reflections, believable vehicle proportions, and a professional automotive advertising aesthetic. Three-quarter front view, high detail. No logos, text, or watermark.
+
+21. Mars Research Base
+Output file: generated_images/21_mars_research_base.jpg
+Prompt:
+Create a scientifically inspired visualization of a future research base on Mars. Include modular habitat structures, solar panels, a small exploration rover, protective equipment, and a distant rocky landscape beneath a dusty peach-colored sky. The structures should appear functional and physically plausible. Realistic terrain, atmospheric haze, cinematic sunlight, detailed science-fiction concept art. No text, logos, or watermark.
+
+22. AI Data Center
+Output file: generated_images/22_ai_data_center.jpg
+Prompt:
+Generate a photorealistic interior view of a modern AI computing data center. Show organized server racks, realistic ventilation systems, cable management, subtle status lights, and a clean technical environment. Use symmetrical composition, believable equipment proportions, cool neutral lighting, and detailed metallic surfaces. Professional technology photography rather than exaggerated science fiction. No readable text, brand logos, or watermark.
+
+23. Robotic Assistant
+Output file: generated_images/23_robotic_assistant.jpg
+Prompt:
+Design a friendly futuristic household robot standing in a bright modern home. Give it a compact body, articulated arms, carefully designed joints, a small expressive screen face, and a stable wheeled base. The robot should look functional, approachable, and manufacturable rather than humanoid. Realistic materials, soft daylight, detailed industrial design, three-quarter view. No text, logos, or watermark.
+
+24. Space Station
+Output file: generated_images/24_space_station.jpg
+Prompt:
+Create a realistic science-fiction visualization of a large orbital space station above Earth. Show interconnected pressurized modules, solar arrays, docking structures, and small details suggesting engineering complexity. Earth curves across the background with visible clouds and atmospheric glow. Respect plausible scale, consistent lighting from the Sun, and believable structural connections. High-quality aerospace visualization. No text or watermark.
+
+25. Microscopic Cell
+Output file: generated_images/25_microscopic_cell.jpg
+Prompt:
+Produce a detailed scientific-style visualization of a biological cell in cross-section. Clearly distinguish the cell membrane, nucleus, mitochondria, endoplasmic reticulum, and Golgi apparatus using recognizable shapes and spatial relationships. Use a clean educational 3D rendering style with realistic surface textures, balanced lighting, and a plain background. Prioritize scientific clarity over decorative effects. No labels, text, or watermark.
+
+26. Glass of Water
+Output file: generated_images/26_glass_of_water.jpg
+Prompt:
+Create a photorealistic studio photograph of a transparent cylindrical glass filled halfway with clear water, placed on a white tabletop. Show physically plausible refraction, reflections, the visible waterline, subtle condensation droplets, and a soft shadow. Include a simple neutral background and controlled side lighting. The glass rim and base should have consistent geometry. Minimalist product photography, no text or watermark.
+
+27. Mirror Reflection
+Output file: generated_images/27_mirror_reflection.jpg
+Prompt:
+Generate a photorealistic interior photograph of an elegant room with a large freestanding mirror beside a window. The mirror should reflect the same room accurately, including consistent furniture positions, window placement, and lighting direction. Add a chair, a potted plant, and a small table. Natural morning light, realistic reflections, coherent spatial relationships, professional interior photography. No people, text, or watermark.
+
+28. Mechanical Clock
+Output file: generated_images/28_mechanical_clock.jpg
+Prompt:
+Create a detailed close-up photograph of an intricate mechanical clock with exposed brass gears, steel springs, precision screws, and a beautifully crafted circular face. All visible mechanical parts should fit together plausibly. Use warm directional lighting, realistic metal textures, shallow depth of field, and a sophisticated workshop atmosphere. Ensure the clock face has correctly arranged, clearly distinguishable hour markers. No branding, text beyond simple numerals, or watermark.
+
+29. Fruit Still Life
+Output file: generated_images/29_fruit_still_life.jpg
+Prompt:
+Create a photorealistic still-life composition featuring an apple, a sliced orange, a pear, grapes, and strawberries arranged naturally on a wooden table. Show believable fruit anatomy, realistic skin textures, tiny surface imperfections, natural moisture, and soft window lighting. Use a muted studio background and careful composition inspired by professional food photography. Avoid duplicated fruit shapes and unnatural intersections. No text or watermark.
+
+30. Miniature Fantasy Bookshop
+Output file: generated_images/30_miniature_fantasy_bookshop.jpg
+Prompt:
+Create an extremely detailed miniature diorama of a magical old bookshop inside a tiny wooden building. Include miniature bookshelves, tiny books, a spiral staircase, a glowing lantern, potted plants, and a little front door. Show realistic wood grain, handcrafted imperfections, and soft warm lighting. Photograph the diorama at a three-quarter angle with shallow depth of field, as though it were a physical collectible model. No readable text or watermark.

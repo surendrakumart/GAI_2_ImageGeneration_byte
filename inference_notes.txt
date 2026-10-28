@@ -1,0 +1,20 @@
+AVIP 2026 — Task 2: Inference Notes
+
+Platform/interface: Google Flow (web interface)
+Model selected by user: Nano Banana 2
+Model family identification: Google identifies Nano Banana 2 as Gemini 3.1 Flash Image.
+Official model overview: https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/
+Flow help/safety: https://support.google.com/flow/answer/16353333
+Google terms: https://www.about.google/policies/terms/
+Image-generation documentation: https://ai.google.dev/gemini-api/docs/image-generation
+
+Workflow:
+1. Prepare 30 prompts covering landscapes, fantasy art, illustration, architecture, product design, science visualization, and composition/reflection tasks.
+2. Submit each prompt through Google Flow with Nano Banana 2 selected.
+3. Export the generated images as JPEG files.
+4. Organize each output in generated_images/ with a numbered filename matching prompts.txt.
+5. Review the images and document five examples and common possible limitations.
+
+Generation route: Browser/UI generation, not a direct API call. The API model identifier documented for Nano Banana 2 is `gemini-3.1-flash-image`, but this repository did not use that API identifier in a request.
+
+Not recorded/provided: generation date per image, seeds, internal model build, exact settings, API version, and request/response payloads. Do not infer these from the exported JPEG files. Google Flow applies its platform policies and safety protections; internal filter settings were not independently inspected.

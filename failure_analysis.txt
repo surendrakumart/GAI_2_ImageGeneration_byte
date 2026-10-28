@@ -1,0 +1,7 @@
+Qualitative Failure Analysis (under 200 words)
+
+The 30 outputs cover a useful range of subjects and visual styles, including landscapes, fantasy environments, product renders, architecture, and scientific imagery. Several images appear visually polished at thumbnail scale, but appearance alone does not prove factual or geometric accuracy.
+
+Likely areas to inspect at full resolution include: the rainy street's small signs and vehicle details; the floating and cloud-city scenes' structural consistency; the biological cell's organelle accuracy; the smartwatch and car's fine mechanical geometry; and the mirror and water-glass images' reflections and refraction. The microscopic-cell image should be treated as an illustrative visualization, not a validated scientific diagram. Fine details such as tiny book spines, clock markings, and small architectural elements may contain distortions or invented structures.
+
+This is a qualitative visual review, not a benchmark. The original generation settings, model identity, and seeds were not provided, so failures cannot be attributed confidently to a particular model or configuration. A stronger evaluation would inspect each image at full resolution and record prompt adherence, artefacts, and any reruns.
